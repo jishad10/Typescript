@@ -13,7 +13,13 @@ Learning typescript
   <li>node filename.js</li>
  </ul>
 
- ## N.B :If problem occures in powershall command,
- ## then try git bush or other command line..
+ ## N.B 
+ <ul><li>
+  If problem occures in powershall command,
+ </li>
+ <li>
+  then try git bush or other command line..
+ </li>
+ </ul>
  
  
