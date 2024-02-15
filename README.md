@@ -12,6 +12,11 @@ Learning typescript
   <li>tsc filename.ts</li>
   <li>node filename.js</li>
  </ul>
+ <ul>
+    <li> ### OR </li>
+    <li>tsc filename.ts --watch</li>
+   <li>node filename.js</li
+ </ul>
 
  ## N.B 
  <ul><li>
