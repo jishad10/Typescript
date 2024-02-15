@@ -19,7 +19,6 @@ Learning typescript
    <li>node filename.js</li
  </ul>
 
-
  ## N.B 
  <ul><li>
   If problem occures in powershall command,
